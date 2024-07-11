@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+img{
+    margin-left: 500px;
+    margin-top: 50px;
+    height: 360px;
+    image-resolution: 720px;
+    border: 2px solid black;
+    
+}
+#on{
+    margin-left: 450px;
+    height: 30px;
+    width: 100px;
+    background-color:white ;
+    margin-top: 70px;
+    font-size: large;
+   
+}
+#off{
+    margin-left: 230px;
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+div{
+    background-color: rgba(165, 165, 161, 0.171);
+    padding: 8px;
+}
